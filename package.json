@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "jest",
+  "workspaces": [
+    "packages/*",
+    "page"
+  ]
+}
