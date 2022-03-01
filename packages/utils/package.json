@@ -1,7 +1,7 @@
 {
-  "name": "ultishare-tweet",
+  "name": "ultishare-utils",
   "version": "1.0.0",
-  "description": "Create a Twitter share URL",
+  "description": "Share Your message easily",
   "author": "Eliaz Bobadilla <eliaz.bobadilladev@gmail.com>",
   "license": "MIT",
   "main": "./lib/index.js",

@@ -4,5 +4,11 @@
   "workspaces": [
     "packages/*",
     "page"
-  ]
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
