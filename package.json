@@ -6,7 +6,7 @@
     "page"
   ],
   "scripts": {
-    "build": "tsc"
+    "build": "vite build page"
   },
   "devDependencies": {
     "typescript": "^4.6.2"
